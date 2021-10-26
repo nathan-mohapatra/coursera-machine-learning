@@ -1,4 +1,4 @@
-# [Coursera] Machine Learning
+# Coursera Machine Learning
 For future reference, this repo will store the contents of this course. The `Lectures` directory contains the lecture slides and corresponding quizzes (with solutions) for each and every topic, all of which are organized according to the weekly structure of the course. Additionally, there is a separate directory for each (completed) programming assignment with instructions and source code. The programming in this course was done using Octave/MATLAB.
 
 ---
